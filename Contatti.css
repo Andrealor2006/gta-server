@@ -1,0 +1,74 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/GTA_5_Skyscrapers_Los_465512.jpg");
+  background-position: 50% 50%;
+  padding: 0;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 819px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 540px;
+  font-family: "Alfa Slab One";
+  font-size: 3rem;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 347px;
+  width: 570px;
+  margin: 60px auto;
+}
+
+.u-section-1 .u-form-group-4 {
+  text-align: left;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  background-image: none;
+  font-family: "Alfa Slab One";
+  letter-spacing: 1px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 675px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 517px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 388px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 244px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
